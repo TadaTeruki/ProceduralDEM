@@ -1,2 +1,3 @@
 ## Project: ProceduralDEM
-ProceduralDEM is procedural terrain generator wrriten in golang.
+
+ProceduralDEM is a procedural terrain generator wrriten in golang.
