@@ -1,2 +1,2 @@
-# ProceduralDEM
-procedural terrain generator
+## Project: ProceduralDEM
+ProceduralDEM is procedural terrain generator wrriten in golang.
